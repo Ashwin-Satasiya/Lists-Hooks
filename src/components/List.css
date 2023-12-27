@@ -1,0 +1,10 @@
+.list-container {
+  border: 1px solid black;
+  width: 50%;
+  padding: 25px;
+  margin: auto;
+}
+
+.list {
+  list-style-type: none;
+}
